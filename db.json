@@ -27,11 +27,5 @@
     "extraInfo": "Pote de 5 litros",
     "price": 9.99
   },
-  {
-    "id": 5,
-    "name": "Helado de Frutilla",
-    "image": "images/fratulli.jpg",
-    "extraInfo": "Pote de 3,5 litros",
-    "price": 7.87
-  }
+  
 ]
