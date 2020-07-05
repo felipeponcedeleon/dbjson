@@ -1,37 +1,46 @@
-[
-  {
-    "id": 1,
-    "name": "Helado de Chocolate",
-    "image": "images/chocolate.jpg",
-    "extraInfo": "Pote de 5 litros",
-    "price": 9.57
-  },
-  {
-    "id": 2,
-    "name": "Helado de Chocolate Blanco",
-    "image": "images/chocolate-blanco.jpg",
-    "extraInfo": "Pote de 5 litros",
-    "price": 11.99
-  },
-  {
-    "id": 3,
-    "name": "Helado de Frambuesa",
-    "image": "images/frambuesa.jpg",
-    "extraInfo": "Pote de 7,5 litros",
-    "price": 15.39
-  },
-  {
-    "id": 4,
-    "name": "Helado de Menta",
-    "image": "images/menta.jpg",
-    "extraInfo": "Pote de 5 litros",
-    "price": 9.99
-  },
-  {
-    "id": 5,
-    "name": "Helado de Frutilla",
-    "image": "images/fratulli.jpg",
-    "extraInfo": "Pote de 3,5 litros",
-    "price": 7.87
+{
+  "products": {
+    {
+      "id": 1,
+      "name": "Helado de Chocolate",
+      "image": "images/chocolate.jpg",
+      "extraInfo": "Pote de 5 litros",
+      "price": 9.57
+    },
+    {
+      "id": 2,
+      "name": "Helado de Chocolate Blanco",
+      "image": "images/chocolate-blanco.jpg",
+      "extraInfo": "Pote de 5 litros",
+      "price": 11.99
+    },
+    {
+      "id": 3,
+      "name": "Helado de Frambuesa",
+      "image": "images/frambuesa.jpg",
+      "extraInfo": "Pote de 7,5 litros",
+      "price": 15.39
+    },
+    {
+      "id": 4,
+      "name": "Helado de Menta",
+      "image": "images/menta.jpg",
+      "extraInfo": "Pote de 5 litros",
+      "price": 9.99
+    },
+    {
+      "id": 5,
+      "name": "Helado de Frutilla",
+      "image": "images/fratulli.jpg",
+      "extraInfo": "Pote de 3,5 litros",
+      "price": 7.87
+    },
+    {
+      "id": 6,
+      "name": "Helado de Pistacho",
+      "image": "images/pistocho.jpg",
+      "extraInfo": "Pote de 10 litros",
+      "price": 19.99
+    }
   }
-]
+}
