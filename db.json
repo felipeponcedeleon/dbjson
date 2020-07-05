@@ -1,5 +1,5 @@
 {
-  "products": {
+  "products": [
     {
       "id": 1,
       "name": "Helado de Chocolate",
@@ -42,5 +42,5 @@
       "extraInfo": "Pote de 10 litros",
       "price": 19.99
     }
-  }
+  ]
 }
